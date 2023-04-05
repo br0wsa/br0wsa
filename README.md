@@ -1,4 +1,4 @@
-# 💬 W̳h̳a̳t̳ ̳d̳r̳i̳v̳e̳s̳ ̳m̳e̳.̳.̳.
+# 💬 what drives me...
 
 - Understand the value of thinking 𝐮𝐬𝐞𝐫𝐜𝐞𝐧𝐭𝐫𝐢𝐜
 - Argue **&/ ͦ ͬ** consciously understand the reasons for UX choices
@@ -8,5 +8,6 @@ I'm Expert **OPQUAST** Web QA certified
 
 ✔️ Do you know **OPQUAST** ? 
 
-This repository of 240 rules ensuring the good quality of a digital project based on the VPTCS model 
+This repository of 240 rules ensuring the good quality of a digital project based on the VPTCS model
+
 **(Visibility / Perception / Technical / Contents / Services)**
