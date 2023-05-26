@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0LMR3P)
+
 # 🛹 what drives me...
 
 - Understand the value of thinking 𝐮𝐬𝐞𝐫𝐜𝐞𝐧𝐭𝐫𝐢𝐜
@@ -9,4 +11,4 @@ I'm Expert **OPQUAST** Web QA certified
 ✔️ Do you know [**OPQUAST**](https://www.opquast.com/) ? This repository of 240 rules ensuring the good quality of a digital project based on the VPTCS model
 
 **Visibility || Perception || Technical || Contents || Services**
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0LMR3P)
+
