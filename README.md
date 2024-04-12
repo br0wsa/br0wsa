@@ -1,4 +1,4 @@
-```markdown
+
 ### Hi there! 👋
 
 Welcome to my GitHub profile! Here's a little about me:
@@ -11,5 +11,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 Feel free to support my work on [Ko-fi](https://ko-fi.com/bluecornflakes)!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U0LMR3P)
+
+
 Happy coding! 🚀
-```
+
