@@ -1,16 +1,15 @@
-### Hi there 👋
+```markdown
+### Hi there! 👋
 
-<!--
-**br0wsa/br0wsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Tramway](https://tramway.life)
+- 🌱 I’m currently learning how to write a good landing page
+- 👯 I’m looking to collaborate on frontend accessibility
+- 💬 Ask me about frontend development
+- 📫 How to reach me: [contact@bluecornflakes.com](mailto:contact@bluecornflakes.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to support my work on [Ko-fi](https://ko-fi.com/bluecornflakes)!
+
+Happy coding! 🚀
+```
