@@ -1,4 +1,2 @@
 
-# Bluecornflakes 
-
-## 👣 digital  native  
+# Welcome 
