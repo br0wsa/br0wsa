@@ -1,4 +1,4 @@
-# ✌️Dadpreneur • Digital Native 
+# Dadpreneur • Digital Native 
 
 [tramway.life](https://www.tramway.life/)
 Alternative with attitude • ✌️
