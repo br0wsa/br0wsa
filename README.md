@@ -1,6 +1,4 @@
-
 # ✌️Dadpreneur • Digital Native 
-## App maker with an accessibility-first mindset.
 
 [tramway.life](https://www.tramway.life/)
 Alternative with attitude • ✌️
