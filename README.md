@@ -1,5 +1,4 @@
-# Bluecornflakes
-## App maker with an accessibility-first mindset
+# App maker with an accessibility-first mindset • 🛗
 
 
 [a11yStart.blue](https://www.a11ystart.blue/)
