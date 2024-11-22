@@ -19,4 +19,4 @@ The Go-To Hub for All Things Accessible !   •  📄
 
 **+ more**
 
-[Follow me on indiePage](https://indiepa.ge/bluecornflakes)
+[Support Us 🏋️‍♀️](https://donate.stripe.com/5kA16tezw3OgeKk144)
