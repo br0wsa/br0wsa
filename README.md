@@ -1,19 +1,19 @@
 # App maker with an accessibility-first mindset • 🛗
 
 
-[a11yStart.blue](https://www.a11ystart.blue/)
+[a11yStart](https://www.a11ystart.blue/)
 Start accessible from day one • ❂
 
-[A11yPage.blue](http://www.a11yPage.blue/)
+[a11yPage](http://www.a11yPage.blue/)
 The Go-To Hub for All Things Accessible !   •  📄 
 
-[tramway.life](https://www.tramway.life/)
+[Tramway](https://www.tramway.life/)
 Alternative with attitude • ✌️
 
-[matchcapa.city](http://www.matchcapa.city/)
+[matchCapacity](http://www.matchcapa.city/)
 Together with Attitude • Handi-Able Connections • 🐱
 
-[bluecornflakes.com](http://www.bluecornflakes.com/)
+[Bluecornflakes.com](http://www.bluecornflakes.com/)
 App maker with an accessibility-first mindset • 🛗 
 
 
