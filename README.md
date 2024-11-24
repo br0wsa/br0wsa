@@ -8,13 +8,13 @@ Start accessible from day one • ✨
 The Go-To Hub for All Things Accessible !   •  📄 
 
 [Tramway](https://www.tramway.life/)
-Alternative with attitude • 🏕️
+Alternative with attitude • Adventure begins together here • 🏕️
 
 [matchCapacity](http://www.matchcapa.city/)
-Together with Attitude, **Handi-Able** Connections • 🐱
+Together with Attitude • **Handi-Able** Connections • 🐱
 
 [Bluecornflakes.com](http://www.bluecornflakes.com/)
-App maker with an **accessibility-first** mindset • 🛗 
+App maker • **Accessibility-first** mindset • 🛗 
 
 
 
