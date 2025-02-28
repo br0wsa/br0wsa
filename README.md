@@ -10,9 +10,6 @@ The **Go-To Hub** for All Things Accessible !   •  📄
 [Tramway](https://www.tramway.life/)
 Alternative with attitude • **Adventure begins** together here • 🏕️
 
-[matchCapacity](http://www.matchcapa.city/)
-Together with Attitude • **Handi-Able** Connections • 🐱
-
 [Bluecornflakes.com](http://www.bluecornflakes.com/)
 App maker • **Accessibility-first** mindset • 🛗 
 
