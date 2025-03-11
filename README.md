@@ -7,8 +7,8 @@
 [a11yPage](http://www.a11yPage.blue/)
 The **Go-To Hub** for All Things Accessible !   •  📄 
 
-[Tramway](https://www.tramway.life/)
-Alternative with attitude • **Adventure begins** together here • 🏕️
+[brigid](https://www.brigid.blue/)
+✨ Brigid Count, You Write! ✒️
 
 [Bluecornflakes.com](http://www.bluecornflakes.com/)
 App maker • **Accessibility-first** mindset • 🛗 
