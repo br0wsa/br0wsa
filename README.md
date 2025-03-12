@@ -1,4 +1,4 @@
-# App maker with an accessibility-first mindset • 🛗
+# App maker with an accessibility-first mindset • 📦
 
 
 [a11yStart](https://www.a11ystart.blue/)
