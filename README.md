@@ -1,13 +1,9 @@
-# App maker with an accessibility-first mindset • 📦
+# My apps
 
+[a11yStart.blue](https://www.a11ystart.blue/)
+- **Start accessibility from day one** • ✨
+- [A11Y BOILERPLATE]
 
-[a11yStart](https://www.a11ystart.blue/)
-**Start accessibility** from day one • ✨
-
-[a11yPage](http://www.a11yPage.blue/)
-The **Go-To Hub** for All Things Accessible !   •  📄 
-
-[Bluecornflakes.com](http://www.bluecornflakes.com/)
-App maker • **Accessibility-first** mindset • 🛗 
-
-[Support Us 🏋️‍♀️](https://donate.stripe.com/5kA16tezw3OgeKk144)
+[a11yPage.blue](http://www.a11yPage.blue/)
+- **The Go-To Hub for All Things Accessible !**   •  📄
+- [A11Y INDIE PAGE]
